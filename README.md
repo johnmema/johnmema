@@ -1,16 +1,15 @@
-### Hi there 👋
+### 
 
-<!--
-**johnmema/johnmema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
-Here are some ideas to get you started:
+# John Mema
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! 👋 I'm John, a senior at UC Davis who simply loves technology. I find joy in working with coding languages like Python and React, as well as getting my hands dirty with C++. Outside of my tech interests, I enjoy discovering new hiking trails and playing basketball or chess.
+
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
+
+## Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
