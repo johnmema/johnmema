@@ -2,7 +2,7 @@
 Hi! 👋 I'm John, a senior at UC Davis who's fascinated with technology. I find joy in working with coding languages like Python and React, as well as getting my hands dirty with C++. Outside of my tech interests, I enjoy discovering new hiking trails and playing basketball or chess.
 
 ## Examples of Work
-### Shield AI - worked on their command and control application (not shown below)
+### Shield AI - worked on their command and control application
 <p float="left">
 <img src="https://github.com/johnmema/johnmema/blob/main/shieldai.png" width="512" >
 </p>
