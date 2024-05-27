@@ -5,14 +5,16 @@ Hi! 👋 I'm John, a senior at UC Davis who's fascinated with technology. I find
 
 ![Python](https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-282C34?logo=go&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-%23282C34.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-282C34?logo=swift&style=for-the-badge)
 ![Vue](https://img.shields.io/badge/Vue-282C34?logo=vuedotjs&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white)
-
+![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma&style=for-the-badge)
 
 ## Examples of Work
 ### Shield AI - worked on their command and control application
