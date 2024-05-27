@@ -3,7 +3,7 @@ Hi! 👋 I'm John, a senior at UC Davis who's fascinated with technology. I find
 
 ### Technologies
 
-[![Rust](https://img.shields.io/badge/Rust-282C34?logo=rust&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=rust&sort=)](https://github.com/Hougesen?tab=repositories&q=&type=&language=rust&sort=)
+[![Rust](https://img.shields.io/badge/Rust-282C34?logo=rust&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=rust&sort=)]()
 [![Python](https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=python&sort=)](https://github.com/Hougesen?tab=repositories&q=&type=&language=python&sort=)
 [![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=typescript&sort=)](https://github.com/Hougesen?tab=repositories&q=&type=&language=typescript&sort=)
 [![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=)](https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=)
