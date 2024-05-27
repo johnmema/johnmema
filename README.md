@@ -3,17 +3,15 @@ Hi! 👋 I'm John, a senior at UC Davis who's fascinated with technology. I find
 
 ### Technologies
 
-[![Rust](https://img.shields.io/badge/Rust-282C34?logo=rust&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=rust&sort=)]()
-[![Python](https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=python&sort=)](https://github.com/Hougesen?tab=repositories&q=&type=&language=python&sort=)
-[![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=typescript&sort=)](https://github.com/Hougesen?tab=repositories&q=&type=&language=typescript&sort=)
-[![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=)](https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=)
-[![C++](https://img.shields.io/badge/C++-%23282C34.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=docker&type=&language=cpp&sort=)](https://github.com/Hougesen?tab=repositories&q=docker&type=&language=cpp&sort=)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&style=for-the-badge&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=rabbitmq&type=&language=&sort=)](https://github.com/Hougesen?tab=repositories&q=rabbitmq&type=&language=&sort=)
-[![Vue](https://img.shields.io/badge/Vue-282C34?logo=vuedotjs&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=vue&sort=)](https://github.com/Hougesen?tab=repositories&q=&type=&language=vue&sort=)
-[![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=mongodb&type=&language=&sort=)](https://github.com/Hougesen?tab=repositories&q=mongodb&type=&language=&sort=)
-[![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=mysql&type=&language=&sort=)](https://github.com/Hougesen?tab=repositories&q=mysql&type=&language=&sort=)
-[![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=docker&type=&language=&sort=)](https://github.com/Hougesen?tab=repositories&q=docker&type=&language=&sort=)
-[![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=linux&type=&language=&sort=)](https://github.com/Hougesen?tab=repositories&q=linux&type=&language=&sort=)
+![Python](https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-%23282C34.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-282C34?logo=vuedotjs&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white)
 
 
 ## Examples of Work
