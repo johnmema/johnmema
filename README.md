@@ -1,5 +1,5 @@
 
-Hi! 👋 I'm John, a senior at UC Davis who's fascinated with technology. I find joy in working with coding languages like Python and React, as well as getting my hands dirty with C++. Outside of my tech interests, I enjoy discovering new hiking trails and playing basketball or chess.
+Hi! 👋 I'm John, a software engineer with a passion for building with technology. I find joy in working with coding languages like Python and React, as well as getting my hands dirty with C++. Outside of my tech interests, I enjoy discovering new hiking trails and playing basketball or chess.
 
 ### Technologies
 
